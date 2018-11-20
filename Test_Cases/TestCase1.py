@@ -1,11 +1,11 @@
 import unittest
-from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
+import common_Functions as actions
 
 class TestCase1(unittest.TestCase):
 
     def setUp(self):
-        self.driver = webdriver.Chrome()
+        self.driver = actions.open_browser()
 
     def test_search_in_python_org(self):
         driver = self.driver
