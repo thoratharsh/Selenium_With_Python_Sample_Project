@@ -34,15 +34,19 @@ It will execute all tests having <keyword> in test name
 ### Tag test cases 
 add ```@pytest.mark.<tagName>``` code before test cases to tag
 ex.
+```
 import pytest
 @pytest.mark.<tagName>
 def test_myTest1():
   print("my test")
+```
 
 ### Execute tests of selected Tags only
 enter below command to execute tests with given tag name
-pytest -m <tagName>
+```pytest -m <tagName>```
 
 ### Exclude test of selective tags only
 enter below command to execute tests not having tag as smoke
+```
 pytest -m "not smoke" -v
+```
