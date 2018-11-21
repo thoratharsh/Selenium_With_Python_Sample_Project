@@ -1,0 +1,62 @@
+{
+  "uid" : "8ee7def7b5834746",
+  "name" : "Test_Cases.test_test2",
+  "fullName" : "Test_Cases.Test_Cases.test_test2",
+  "historyId" : "10ce3b83c4a370bf426093f56dcdea5c",
+  "time" : {
+    "start" : 1542831236540,
+    "stop" : 1542831236545,
+    "duration" : 5
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Skipped: i dont want to run test case",
+  "statusTrace" : "",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-22EUHGG"
+  }, {
+    "name" : "language",
+    "value" : "cpython2"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "12564-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "Test_Cases"
+  }, {
+    "name" : "testClass",
+    "value" : "Test_Cases"
+  }, {
+    "name" : "testMethod",
+    "value" : "Test_Cases.test_test2"
+  }, {
+    "name" : "package",
+    "value" : "Test_Cases"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8ee7def7b5834746.json",
+  "parameterValues" : [ ]
+}

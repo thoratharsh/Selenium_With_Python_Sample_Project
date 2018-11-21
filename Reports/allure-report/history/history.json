@@ -1,0 +1,41 @@
+{
+  "10ce3b83c4a370bf426093f56dcdea5c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8ee7def7b5834746",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: i dont want to run test case",
+      "time" : {
+        "start" : 1542831236540,
+        "stop" : 1542831236545,
+        "duration" : 5
+      }
+    } ]
+  },
+  "88454871cfc84bade47d341f76c906b0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3824e80afa463ed0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1542831221596,
+        "stop" : 1542831234397,
+        "duration" : 12801
+      }
+    } ]
+  }
+}

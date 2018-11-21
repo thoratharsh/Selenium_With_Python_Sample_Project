@@ -1,0 +1,33 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Test_Cases",
+    "children" : [ {
+      "name" : "Test_Cases.test_login_to_orangeHRM",
+      "uid" : "3824e80afa463ed0",
+      "parentUid" : "9f19e18ab9da78f3e6a425d1931575c4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1542831221596,
+        "stop" : 1542831234397,
+        "duration" : 12801
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Test_Cases.test_test2",
+      "uid" : "8ee7def7b5834746",
+      "parentUid" : "9f19e18ab9da78f3e6a425d1931575c4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1542831236540,
+        "stop" : 1542831236545,
+        "duration" : 5
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "9f19e18ab9da78f3e6a425d1931575c4"
+  } ]
+}

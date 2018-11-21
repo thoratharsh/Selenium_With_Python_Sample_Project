@@ -1,0 +1,21 @@
+[ {
+  "uid" : "3824e80afa463ed0",
+  "name" : "Test_Cases.test_login_to_orangeHRM",
+  "time" : {
+    "start" : 1542831221596,
+    "stop" : 1542831234397,
+    "duration" : 12801
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8ee7def7b5834746",
+  "name" : "Test_Cases.test_test2",
+  "time" : {
+    "start" : 1542831236540,
+    "stop" : 1542831236545,
+    "duration" : 5
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+} ]

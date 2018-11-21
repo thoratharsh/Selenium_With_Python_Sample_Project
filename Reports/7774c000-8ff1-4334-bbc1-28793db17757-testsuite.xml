@@ -1,0 +1,34 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1542831221596" stop="1542831236545">
+  <name>Test_Cases</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1542831221596" status="passed" stop="1542831234397">
+      <name>Test_Cases.test_login_to_orangeHRM</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="12564-MainThread"/>
+        <label name="host" value="DESKTOP-22EUHGG"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython2"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1542831236540" status="canceled" stop="1542831236545">
+      <name>Test_Cases.test_test2</name>
+      <failure>
+        <message>Skipped: i dont want to run test case</message>
+        <stack-trace></stack-trace>
+      </failure>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="12564-MainThread"/>
+        <label name="host" value="DESKTOP-22EUHGG"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython2"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

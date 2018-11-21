@@ -1,0 +1,60 @@
+{
+  "uid" : "3824e80afa463ed0",
+  "name" : "Test_Cases.test_login_to_orangeHRM",
+  "fullName" : "Test_Cases.Test_Cases.test_login_to_orangeHRM",
+  "historyId" : "88454871cfc84bade47d341f76c906b0",
+  "time" : {
+    "start" : 1542831221596,
+    "stop" : 1542831234397,
+    "duration" : 12801
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-22EUHGG"
+  }, {
+    "name" : "language",
+    "value" : "cpython2"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "12564-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "Test_Cases"
+  }, {
+    "name" : "testClass",
+    "value" : "Test_Cases"
+  }, {
+    "name" : "testMethod",
+    "value" : "Test_Cases.test_login_to_orangeHRM"
+  }, {
+    "name" : "package",
+    "value" : "Test_Cases"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3824e80afa463ed0.json",
+  "parameterValues" : [ ]
+}

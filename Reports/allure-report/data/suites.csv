@@ -1,0 +1,3 @@
+"Status","Name","Duration in ms","Description"
+"passed","Test_Cases.Test_Cases.test_login_to_orangeHRM","12801",""
+"skipped","Test_Cases.Test_Cases.test_test2","5",""

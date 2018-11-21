@@ -1,0 +1,37 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-22EUHGG",
+    "children" : [ {
+      "name" : "12564-MainThread",
+      "children" : [ {
+        "name" : "Test_Cases.test_login_to_orangeHRM",
+        "uid" : "3824e80afa463ed0",
+        "parentUid" : "e64f043afd6f048d6303f498d374a764",
+        "status" : "passed",
+        "time" : {
+          "start" : 1542831221596,
+          "stop" : 1542831234397,
+          "duration" : 12801
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test_Cases.test_test2",
+        "uid" : "8ee7def7b5834746",
+        "parentUid" : "e64f043afd6f048d6303f498d374a764",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1542831236540,
+          "stop" : 1542831236545,
+          "duration" : 5
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e64f043afd6f048d6303f498d374a764"
+    } ],
+    "uid" : "c393363dca3214fedf82f1f500f1919c"
+  } ]
+}
