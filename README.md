@@ -67,7 +67,7 @@ __Step 4__.Verify pytest-allure-adapter is added in interpreter of pycharm
 
 __Step 5__.create Report folder in project and run test case with below command
 ```
-pytest --allure <path of report folder>
+pytest --alluredir <path of report folder>
 ```
 
 __Step 6__.After test is run xml files will be generated in reports folder. To create html report open command prompt and enter below command:
