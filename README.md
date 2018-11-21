@@ -50,3 +50,29 @@ enter below command to execute tests not having tag as smoke
 ```
 pytest -m "not smoke" -v
 ```
+
+# Reporting Selenium Python
+I have allure adapter to generate HTML reports. Please find steps to install and setup allure reproter in project:
+
+__Step 1__.Install Allure adapter
+```
+pip install pytest-allure-adaptor
+```
+
+__Step 2__.download allure zip file in your system [donwload allure zip](https://bintray.com/qameta/generic/allure2/2.7.0#files/io%2Fqameta%2Fallure%2Fallure%2F2.7.0)
+
+__Step 3__.extract downloaded zip file and add ```allure2.7.0/bin``` location to environment variable
+
+__Step 4__.Verify pytest-allure-adapter is added in interpreter of pycharm
+
+__Step 5__.create Report folder in project and run test case with below command
+```
+pytest --allure <path of report folder>
+```
+
+__Step 6__.After test is run xml files will be generated in reports folder. To create html report open command prompt and enter below command:
+```
+cd <path of report folder>
+allure generate <path of report folder>
+```
+If you find any difficulty please refer [this youtube video](https://www.youtube.com/watch?v=gbEg0grSYSs)
