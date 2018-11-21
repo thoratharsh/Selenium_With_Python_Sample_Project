@@ -1,14 +1,13 @@
 # Installation
 
-Install python
+Install python [python installation guide](https://www.python.org/downloads/)
 
-Install selenium library: pip install selenium
-
-install selenium3 library: pip install selenium3library
+Install selenium library [selenium installation files](https://pypi.org/project/selenium/): ```pip install selenium```
 
 Add python path to enviroment variable
 
 donwload browser drivers and put in python27 directory
+[Guide for selenium installation](https://selenium-python.readthedocs.io/installation.html)
 
 # Selenium_With_Python_Sample_Project
 This is implementation of Selenium with python for sample project
@@ -20,8 +19,12 @@ once command given pytest will execute test having names starting with test from
 
 ## Skip/execute selective tests
 ### Skip test from execution
+
+```
 import pytest
 @pytest.mark.skip(reason="I dont want to run test")
+```
+
 to see result with verbose and reason behind skip execute command: pytest -v -rxs
 
 ### Execute selective tests only
@@ -29,7 +32,7 @@ to execute selective tests only enter command: pytest -k <keyword>
 It will execute all tests having <keyword> in test name
   
 ### Tag test cases 
-add @pytest.mark.<tagName> code before test cases to tag
+add ```@pytest.mark.<tagName>``` code before test cases to tag
 ex.
 import pytest
 @pytest.mark.<tagName>
