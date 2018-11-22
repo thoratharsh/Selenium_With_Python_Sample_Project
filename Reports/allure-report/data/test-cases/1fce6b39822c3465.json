@@ -1,0 +1,160 @@
+{
+  "uid" : "1fce6b39822c3465",
+  "name" : "Test_Cases.test_login_to_orangeHRM",
+  "fullName" : "Test_Cases.Test_Cases.test_login_to_orangeHRM",
+  "historyId" : "88454871cfc84bade47d341f76c906b0",
+  "time" : {
+    "start" : 1542913037457,
+    "stop" : 1542913049073,
+    "duration" : 11616
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Login to OrangeHRM",
+      "time" : {
+        "start" : 1542913046554,
+        "stop" : 1542913049020,
+        "duration" : 2466
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "Text \"Admin\" Entered in locator:\"//*[@id='txtUsername']\"",
+        "time" : {
+          "start" : 1542913046554,
+          "stop" : 1542913046746,
+          "duration" : 192
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "hasContent" : false,
+        "stepsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 0
+      }, {
+        "name" : "Text \"admin123\" Entered in locator:\"//*[@id='txtPassword']\"",
+        "time" : {
+          "start" : 1542913046746,
+          "stop" : 1542913046853,
+          "duration" : 107
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "hasContent" : false,
+        "stepsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 0
+      }, {
+        "name" : "Clicked on locator: //*[@id='btnLogin']",
+        "time" : {
+          "start" : 1542913046853,
+          "stop" : 1542913049020,
+          "duration" : 2167
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "hasContent" : false,
+        "stepsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 0
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 3,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Browser closed",
+      "time" : {
+        "start" : 1542913049020,
+        "stop" : 1542913049072,
+        "duration" : 52
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "browser closed",
+        "time" : {
+          "start" : 1542913049020,
+          "stop" : 1542913049072,
+          "duration" : 52
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "hasContent" : false,
+        "stepsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 0
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 6,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-22EUHGG"
+  }, {
+    "name" : "language",
+    "value" : "cpython2"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "14068-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "Test_Cases"
+  }, {
+    "name" : "testClass",
+    "value" : "Test_Cases"
+  }, {
+    "name" : "testMethod",
+    "value" : "Test_Cases.test_login_to_orangeHRM"
+  }, {
+    "name" : "package",
+    "value" : "Test_Cases"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1fce6b39822c3465.json",
+  "parameterValues" : [ ]
+}

@@ -2,7 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="38a25464-966c-4c77-a06c-19cc2d480ef6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Test_Cases/Business_Functions.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/7774c000-8ff1-4334-bbc1-28793db17757-testsuite.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/allure-report/data/behaviors.json" beforeDir="false" afterPath="$PROJECT_DIR$/Reports/allure-report/data/behaviors.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/allure-report/data/packages.json" beforeDir="false" afterPath="$PROJECT_DIR$/Reports/allure-report/data/packages.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/allure-report/data/suites.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Reports/allure-report/data/suites.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/allure-report/data/suites.json" beforeDir="false" afterPath="$PROJECT_DIR$/Reports/allure-report/data/suites.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/allure-report/data/test-cases/3824e80afa463ed0.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/allure-report/data/test-cases/8ee7def7b5834746.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/allure-report/data/timeline.json" beforeDir="false" afterPath="$PROJECT_DIR$/Reports/allure-report/data/timeline.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/allure-report/export/influxDbData.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Reports/allure-report/export/influxDbData.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/allure-report/export/prometheusData.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Reports/allure-report/export/prometheusData.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/allure-report/history/duration-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/Reports/allure-report/history/duration-trend.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/allure-report/history/history.json" beforeDir="false" afterPath="$PROJECT_DIR$/Reports/allure-report/history/history.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/allure-report/widgets/duration-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/Reports/allure-report/widgets/duration-trend.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/allure-report/widgets/duration.json" beforeDir="false" afterPath="$PROJECT_DIR$/Reports/allure-report/widgets/duration.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/allure-report/widgets/severity.json" beforeDir="false" afterPath="$PROJECT_DIR$/Reports/allure-report/widgets/severity.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/allure-report/widgets/status-chart.json" beforeDir="false" afterPath="$PROJECT_DIR$/Reports/allure-report/widgets/status-chart.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/allure-report/widgets/summary.json" beforeDir="false" afterPath="$PROJECT_DIR$/Reports/allure-report/widgets/summary.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test_Cases/Test_Cases.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test_Cases/Test_Cases.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test_Cases/common_Functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test_Cases/common_Functions.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -91,7 +111,7 @@
           <entry key="log" value="1" />
           <entry key="md" value="1" />
           <entry key="project" value="1" />
-          <entry key="py" value="12" />
+          <entry key="py" value="14" />
           <entry key="xml" value="2" />
         </counts>
       </usages-collector>
@@ -99,35 +119,49 @@
         <counts>
           <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="4" />
-          <entry key="Python" value="12" />
+          <entry key="Python" value="14" />
           <entry key="XML" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="11" />
-          <entry key="py" value="2234" />
+          <entry key="py" value="3246" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="11" />
-          <entry key="Python" value="2234" />
+          <entry key="Python" value="3246" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Test_Cases/Test_Cases.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="32" lean-forward="true" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+            <state relative-caret-position="153">
+              <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
               <folding>
                 <element signature="e#0#47#0" expanded="true" />
-                <marker date="1542829393127" expanded="true" signature="172:496" ph="..." />
-                <marker date="1542829393127" expanded="true" signature="513:518" ph="..." />
+                <marker date="1542910436792" expanded="true" signature="209:428" ph="..." />
+                <marker date="1542910436792" expanded="true" signature="445:450" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Test_Cases/Business_Functions.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="139">
+              <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+              <folding>
+                <element signature="e#0#47#0" expanded="true" />
+                <marker date="1542910674203" expanded="true" signature="185:222" ph="..." />
+                <marker date="1542910674203" expanded="true" signature="256:584" ph="..." />
               </folding>
             </state>
           </provider>
@@ -145,20 +179,22 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Test_Cases/common_Functions.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="250">
+              <caret line="91" lean-forward="true" selection-start-line="91" selection-end-line="91" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
-                <marker date="1542829352742" expanded="true" signature="151:156" ph="..." />
-                <marker date="1542829352742" expanded="true" signature="307:328" ph="..." />
-                <marker date="1542829352742" expanded="true" signature="364:369" ph="..." />
-                <marker date="1542829352742" expanded="true" signature="450:501" ph="..." />
-                <marker date="1542829352742" expanded="true" signature="559:564" ph="..." />
-                <marker date="1542829352742" expanded="true" signature="1597:1970" ph="..." />
-                <marker date="1542829352742" expanded="true" signature="1759:1846" ph="..." />
-                <marker date="1542829352742" expanded="true" signature="2006:2011" ph="..." />
+                <marker date="1542913033337" expanded="true" signature="165:170" ph="..." />
+                <marker date="1542913033337" expanded="true" signature="361:443" ph="..." />
+                <marker date="1542913033337" expanded="true" signature="479:484" ph="..." />
+                <marker date="1542913033337" expanded="true" signature="537:542" ph="..." />
+                <marker date="1542913033337" expanded="true" signature="614:674" ph="..." />
+                <marker date="1542913033337" expanded="true" signature="766:771" ph="..." />
+                <marker date="1542913033337" expanded="true" signature="2016:2423" ph="..." />
+                <marker date="1542913033337" expanded="true" signature="2178:2265" ph="..." />
+                <marker date="1542913033337" expanded="true" signature="2459:2464" ph="..." />
               </folding>
             </state>
           </provider>
@@ -172,6 +208,11 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>close</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -189,8 +230,10 @@
         <option value="$PROJECT_DIR$/Test_Cases/TestCase1.py" />
         <option value="$PROJECT_DIR$/Test_Cases/test_case_1.py" />
         <option value="$PROJECT_DIR$/Test_Cases/Page_Objects.py" />
-        <option value="$PROJECT_DIR$/Test_Cases/common_Functions.py" />
         <option value="$PROJECT_DIR$/Test_Cases/Test_Cases.py" />
+        <option value="$PROJECT_DIR$/Test_Cases/Business_Functions.py" />
+        <option value="$PROJECT_DIR$/Test_Cases/Pass_Fail_Steps.py" />
+        <option value="$PROJECT_DIR$/Test_Cases/common_Functions.py" />
       </list>
     </option>
   </component>
@@ -220,6 +263,12 @@
               <item name="Selenium_With_Python_Sample_Project" type="b2602c69:ProjectViewProjectNode" />
               <item name="Selenium_With_Python_Sample_Project" type="462c0819:PsiDirectoryNode" />
               <item name="Reports" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Selenium_With_Python_Sample_Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Selenium_With_Python_Sample_Project" type="462c0819:PsiDirectoryNode" />
+              <item name="Reports" type="462c0819:PsiDirectoryNode" />
+              <item name="allure-report" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Selenium_With_Python_Sample_Project" type="b2602c69:ProjectViewProjectNode" />
@@ -344,8 +393,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24330357" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24330357" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Thumbnails" weight="0.3289689" />
@@ -357,7 +407,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.37806875" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.41080198" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.3289689" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -460,20 +510,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Test_Cases/common_Functions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-            <marker date="1542829352742" expanded="true" signature="151:156" ph="..." />
-            <marker date="1542829352742" expanded="true" signature="307:328" ph="..." />
-            <marker date="1542829352742" expanded="true" signature="364:369" ph="..." />
-            <marker date="1542829352742" expanded="true" signature="450:501" ph="..." />
-            <marker date="1542829352742" expanded="true" signature="559:564" ph="..." />
-            <marker date="1542829352742" expanded="true" signature="1597:1970" ph="..." />
-            <marker date="1542829352742" expanded="true" signature="1759:1846" ph="..." />
-            <marker date="1542829352742" expanded="true" signature="2006:2011" ph="..." />
-          </folding>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
         </state>
       </provider>
     </entry>
@@ -487,22 +528,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/Test_Cases/Test_Cases.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#47#0" expanded="true" />
+            <marker date="1542910436792" expanded="true" signature="209:428" ph="..." />
+            <marker date="1542910436792" expanded="true" signature="445:450" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Test_Cases/Test_Cases.py">
+    <entry file="file://$PROJECT_DIR$/Test_Cases/Business_Functions.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="32" lean-forward="true" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+        <state relative-caret-position="139">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
           <folding>
             <element signature="e#0#47#0" expanded="true" />
-            <marker date="1542829393127" expanded="true" signature="172:496" ph="..." />
-            <marker date="1542829393127" expanded="true" signature="513:518" ph="..." />
+            <marker date="1542910674203" expanded="true" signature="185:222" ph="..." />
+            <marker date="1542910674203" expanded="true" signature="256:584" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test_Cases/Pass_Fail_Steps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test_Cases/common_Functions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="91" lean-forward="true" selection-start-line="91" selection-end-line="91" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+            <marker date="1542913033337" expanded="true" signature="165:170" ph="..." />
+            <marker date="1542913033337" expanded="true" signature="361:443" ph="..." />
+            <marker date="1542913033337" expanded="true" signature="479:484" ph="..." />
+            <marker date="1542913033337" expanded="true" signature="537:542" ph="..." />
+            <marker date="1542913033337" expanded="true" signature="614:674" ph="..." />
+            <marker date="1542913033337" expanded="true" signature="766:771" ph="..." />
+            <marker date="1542913033337" expanded="true" signature="2016:2423" ph="..." />
+            <marker date="1542913033337" expanded="true" signature="2178:2265" ph="..." />
+            <marker date="1542913033337" expanded="true" signature="2459:2464" ph="..." />
           </folding>
         </state>
       </provider>

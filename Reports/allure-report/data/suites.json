@@ -5,25 +5,25 @@
     "name" : "Test_Cases",
     "children" : [ {
       "name" : "Test_Cases.test_login_to_orangeHRM",
-      "uid" : "3824e80afa463ed0",
+      "uid" : "1fce6b39822c3465",
       "parentUid" : "9f19e18ab9da78f3e6a425d1931575c4",
       "status" : "passed",
       "time" : {
-        "start" : 1542831221596,
-        "stop" : 1542831234397,
-        "duration" : 12801
+        "start" : 1542913037457,
+        "stop" : 1542913049073,
+        "duration" : 11616
       },
       "flaky" : false,
       "parameters" : [ ]
     }, {
       "name" : "Test_Cases.test_test2",
-      "uid" : "8ee7def7b5834746",
+      "uid" : "9f647fa467eadaf2",
       "parentUid" : "9f19e18ab9da78f3e6a425d1931575c4",
       "status" : "skipped",
       "time" : {
-        "start" : 1542831236540,
-        "stop" : 1542831236545,
-        "duration" : 5
+        "start" : 1542913049080,
+        "stop" : 1542913049082,
+        "duration" : 2
       },
       "flaky" : false,
       "parameters" : [ ]

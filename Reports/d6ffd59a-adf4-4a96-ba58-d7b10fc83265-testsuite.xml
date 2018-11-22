@@ -1,0 +1,73 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1542913037457" stop="1542913049082">
+  <name>Test_Cases</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1542913037457" status="passed" stop="1542913049073">
+      <name>Test_Cases.test_login_to_orangeHRM</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="14068-MainThread"/>
+        <label name="host" value="DESKTOP-22EUHGG"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython2"/>
+      </labels>
+      <steps>
+        <step start="1542913046554" status="passed" stop="1542913049020">
+          <name>Login to OrangeHRM</name>
+          <title>Login to OrangeHRM</title>
+          <attachments/>
+          <steps>
+            <step start="1542913046554" status="passed" stop="1542913046746">
+              <name>Text "Admin" Entered in locator:"//*[@id='txtUsername']"</name>
+              <title>Text "Admin" Entered in locator:"//*[@id='txtUsername']"</title>
+              <attachments/>
+              <steps/>
+            </step>
+            <step start="1542913046746" status="passed" stop="1542913046853">
+              <name>Text "admin123" Entered in locator:"//*[@id='txtPassword']"</name>
+              <title>Text "admin123" Entered in locator:"//*[@id='txtPassword']"</title>
+              <attachments/>
+              <steps/>
+            </step>
+            <step start="1542913046853" status="passed" stop="1542913049020">
+              <name>Clicked on locator: //*[@id='btnLogin']</name>
+              <title>Clicked on locator: //*[@id='btnLogin']</title>
+              <attachments/>
+              <steps/>
+            </step>
+          </steps>
+        </step>
+        <step start="1542913049020" status="passed" stop="1542913049072">
+          <name>Browser closed</name>
+          <title>Browser closed</title>
+          <attachments/>
+          <steps>
+            <step start="1542913049020" status="passed" stop="1542913049072">
+              <name>browser closed</name>
+              <title>browser closed</title>
+              <attachments/>
+              <steps/>
+            </step>
+          </steps>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1542913049080" status="canceled" stop="1542913049082">
+      <name>Test_Cases.test_test2</name>
+      <failure>
+        <message>Skipped: i dont want to run test case</message>
+        <stack-trace></stack-trace>
+      </failure>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="14068-MainThread"/>
+        <label name="host" value="DESKTOP-22EUHGG"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython2"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

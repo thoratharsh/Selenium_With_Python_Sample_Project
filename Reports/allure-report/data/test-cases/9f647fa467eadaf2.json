@@ -1,12 +1,12 @@
 {
-  "uid" : "8ee7def7b5834746",
+  "uid" : "9f647fa467eadaf2",
   "name" : "Test_Cases.test_test2",
   "fullName" : "Test_Cases.Test_Cases.test_test2",
   "historyId" : "10ce3b83c4a370bf426093f56dcdea5c",
   "time" : {
-    "start" : 1542831236540,
-    "stop" : 1542831236545,
-    "duration" : 5
+    "start" : 1542913049080,
+    "stop" : 1542913049082,
+    "duration" : 2
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -30,7 +30,7 @@
     "value" : "normal"
   }, {
     "name" : "thread",
-    "value" : "12564-MainThread"
+    "value" : "14068-MainThread"
   }, {
     "name" : "suite",
     "value" : "Test_Cases"
@@ -57,6 +57,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "8ee7def7b5834746.json",
+  "source" : "9f647fa467eadaf2.json",
   "parameterValues" : [ ]
 }
