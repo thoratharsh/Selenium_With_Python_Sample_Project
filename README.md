@@ -76,4 +76,5 @@ cd <path of report folder>
 allure generate <path of report folder>
 ```
 If you find any difficulty please refer [this youtube video](https://www.youtube.com/watch?v=gbEg0grSYSs)
+
 [Allure Documentation](https://docs.qameta.io/allure/) 
