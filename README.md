@@ -78,3 +78,6 @@ allure generate <path of report folder>
 If you find any difficulty please refer [this youtube video](https://www.youtube.com/watch?v=gbEg0grSYSs)
 
 [Allure Documentation](https://docs.qameta.io/allure/) 
+
+## useful links
+[Automation framework setup](https://www.blazemeter.com/blog/how-automate-testing-using-selenium-webdriver-jenkins-and-allure/) 
